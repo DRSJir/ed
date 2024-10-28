@@ -15,6 +15,7 @@ public class Sesion34DelRealED_Pilas {
         
         JOptionPane.showMessageDialog(null, "Datos en pila ordenada es: \n" +pilaDelReal);
         
+        JOptionPane.showMessageDialog(null, "Autor: Del Real");
     }
     
 }
